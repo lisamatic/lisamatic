@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Lisa 👋
 
-<!--
-**lisamatic/lisamatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Application Developer**  
+💡 Focused on **AI & Automation**  
+🚀 Continuously learning and building projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Programming:** Python, Oracle SQL(basics), HTML/CSS
+- **Tools:** Visual Studio Code, Git, GitHub, Jupyter
+- **Interests:** AI, Automation, Process Optimization
+
+---
+
+## 📫 Contact
+- ✉️ Email: [lisa.klein@outlook.at](mailto:lisa.klein@outlook.at)
+- 🔗 LinkedIn: *(insert link here if you have one)*
+
+---
+
+⭐ *Always curious. Always learning.*
