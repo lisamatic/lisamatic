@@ -15,7 +15,7 @@
 
 ## 📫 Contact
 - ✉️ Email: [lisa.klein@outlook.at](mailto:lisa.klein@outlook.at)
-- 🔗 LinkedIn: *(insert link here if you have one)*
+- 🔗 LinkedIn: *still gotta add*
 
 ---
 
