@@ -6,7 +6,7 @@
 
 ---
 
-## ![Skills Badge](https://img.shields.io/badge/🛠%20Skills-–-lightpink?style=flat) Skills
+## 🛠 Skills
 - **Programming:** Python, Oracle SQL(basics), HTML/CSS
 - **Tools:** Visual Studio Code, Git, GitHub, Jupyter
 - **Interests:** AI, Automation, Process Optimization
